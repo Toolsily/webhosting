@@ -2,10 +2,12 @@
 外贸建站工具：域名及空间
 
 ## [Bluehost](http://www.bluehost.com/track/liwu/bluehost1)
-江湖人称“蓝色主机”。针对外贸人的首选主机建站美国提供商。6年续费，稳定安全快速。
+![](https://www.toolsily.com/wp-content/uploads/2017/09/bluehost-webhosting.jpg)
+##### 江湖人称“蓝色主机”。针对外贸人的首选主机建站美国提供商。6年续费，稳定安全快速。
 
 ## [Hostgator](https://www.hostgator.com)
-美国老牌主机提供商。同样有每月3.95USD的空间方案
+![](https://www.toolsily.com/wp-content/uploads/2017/09/hostgator_副本.jpg)
+##### 美国老牌主机提供商。同样有每月3.95USD的空间方案
 
 ## [Linode](https://www.linode.com/?r=c5cb7adf4db9c1de0a12c1f3122f9560c989aaed)
 ![](https://www.toolsily.com/wp-content/uploads/2017/09/linode_副本.jpg)
