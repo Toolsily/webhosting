@@ -1,4 +1,4 @@
-# webhosting
+# Webhosting
 外贸建站工具：域名及空间
 
 ## <a href="http://www.bluehost.com/track/liwu/bluehost1" rel="nofollow" target="_blank">Bluehost</a>
